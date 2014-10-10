@@ -1,3 +1,7 @@
+#UPDATE:2014-10-10 21:18
+
+127.0.0.1	localhost
+
 108.160.165.211 client14.dropbox.com
 108.160.165.211 client37.dropbox.com
 216.239.32.6 ytimg.l.google.com
